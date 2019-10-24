@@ -1,0 +1,29 @@
+PODS:
+  - RecurrencePicker (0.1.4)
+  - RRuleSwift (0.5.0)
+
+DEPENDENCIES:
+  - RecurrencePicker (from `https://github.com/mirfanbashir/RecurrencePicker.git`)
+  - "RRuleSwift (from `git@bitbucket.org:ucaas_mitel/external-ios-rruleswift.git`)"
+
+EXTERNAL SOURCES:
+  RecurrencePicker:
+    :git: https://github.com/mirfanbashir/RecurrencePicker.git
+  RRuleSwift:
+    :git: "git@bitbucket.org:ucaas_mitel/external-ios-rruleswift.git"
+
+CHECKOUT OPTIONS:
+  RecurrencePicker:
+    :commit: 5e5fb9c419d13da211c8e122b3634093087376cf
+    :git: https://github.com/mirfanbashir/RecurrencePicker.git
+  RRuleSwift:
+    :commit: 3f90f17a6625d17152a16d270cea393ea911e3c1
+    :git: "git@bitbucket.org:ucaas_mitel/external-ios-rruleswift.git"
+
+SPEC CHECKSUMS:
+  RecurrencePicker: 63d6bcfa32a1a6aae2fe517a95713a2866f03491
+  RRuleSwift: ea7cfdf2e9b15df114937ae830f70765536bc158
+
+PODFILE CHECKSUM: 5e1dbb6995f16566160f000ebdca2e4bf8d37896
+
+COCOAPODS: 1.8.4

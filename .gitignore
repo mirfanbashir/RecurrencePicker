@@ -28,3 +28,5 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 ".gitignore" 68L, 1458C
+Pods/
+RecurrencePickerExample.xcworkspace/xcshareddata/

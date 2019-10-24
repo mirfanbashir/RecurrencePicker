@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = 'UIKit'
   s.module_name = 'RecurrencePicker'
+  spec.dependency 'RRuleSwift', :git => 'https://github.com/mirfanbashir/RRuleSwift.git'
 end
